@@ -1,4 +1,4 @@
-## Flutter UI Day 13 of 100 - Instagram Clone
+## Flutter UI Day 13 of 100 - Todolist
 
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/94339143?v=4" width=100/>
